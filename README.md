@@ -18,7 +18,7 @@ Quick introduction of Application
 ![screenshot](src/components/images/index3.png)  
 
 ## Contact
-If you want to contact me you can reach me at email@address.com.
+If you want to contact me you can reach me at banda_adrian@outlook.com
 
 ## Links
 [Github Profile](https://github.com/banda-adrian/)
